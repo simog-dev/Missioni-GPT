@@ -3,7 +3,7 @@
 
 
 
-##Overview
+## Overview
 - Implements a proof-of-concenpt for querying personal PDF documents using LangChain, Pinecone and ChatGPT.
 - Documents embeddings code is omitted [available soon]
 - Streamlint UI from Streamlit-chatGPT[https://github.com/joeychrys/streamlit-chatGPT]
@@ -16,10 +16,11 @@
 git clone https://github.com/joeychrys/streamlit-chatGPT.git
 ```
 
-2. Create a `.env` file based on the `.env.example` file inside the `src` directory and add your `OPENAI_API_KEY`
+2. Modify the `.env` file inside the `src` directory and add your `OPENAI_API_KEY`. To obtain access to Pinecone vectors, contact the repository owner.
 
 ```bash
 OPENAI_API_KEY=yourapikey
+PINECONE_API_KEY=contact repo owner
 ```
 
 3. Create and activate a new virtual environment
