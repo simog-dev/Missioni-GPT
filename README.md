@@ -1,7 +1,5 @@
 # Missioni-GPT
-[image here]
-
-
+![Application image](https://github.com/simog-dev/Missioni-GPT/blob/main/docs/app_image.jpeg?raw=true)
 
 ## Overview
 - Implements a proof-of-concenpt for querying personal PDF documents using LangChain, Pinecone and ChatGPT to answer question about Unipi mission request.
