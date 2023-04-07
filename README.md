@@ -1,3 +1,4 @@
+-add TODO and Warnings sections
 # Missioni-GPT
 ![Application image](https://github.com/simog-dev/Missioni-GPT/blob/main/docs/app_image.jpeg?raw=true)
 
