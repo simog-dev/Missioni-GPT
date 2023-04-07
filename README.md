@@ -32,7 +32,7 @@ source env/bin/activate
 4. Move to project directory
 
 ```bash
-cd streamlit-chatGPT
+cd Missioni-GPT
 ```
 
 5. Install the required packages
