@@ -1,4 +1,5 @@
 -add TODO and Warnings sections
+-add example .env file
 # Missioni-GPT
 ![Application image](https://github.com/simog-dev/Missioni-GPT/blob/main/docs/app_image.jpeg?raw=true)
 
