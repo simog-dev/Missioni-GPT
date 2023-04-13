@@ -1,5 +1,3 @@
--add TODO and Warnings sections
--add example .env file
 # Missioni-GPT
 ![Application image](https://github.com/simog-dev/Missioni-GPT/blob/main/docs/app_image.jpeg?raw=true)
 
@@ -50,6 +48,10 @@ streamlit run src/main.py
 ## Usage
 
 Once the application is running, you can interact with it by following the on-screen instructions at `http://localhost:8501`
+
+## TODO
+
+- Adjust form and content of the PDF from which the answers are extracted. At the moment, the document is composed of the set of PDFs that expose the different procedures for the missions without any adjustments. For getting better answers, it would be optimal to clean the PDFs of unnecessary text and the transformation of tables to text.
 
 ## Contributing
 
