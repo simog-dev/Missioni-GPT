@@ -44,7 +44,7 @@ with st.sidebar:
     st.title("Information:")
     st.markdown("""---""")
     st.write("🔴 Responses generated may contain incorrect and/or incomplete information")
-    st.write("🇮🇹/🇬🇧 You can use either Italian or Englishs")
+    st.write("🇮🇹/🇬🇧 You can use either Italian or English")
     st.write("⚡ To get detailed answers, ask specific inquiries")
     st.write("📚 The information used to generate responses is extracted from the following documents https://github.com/simog-dev/Missioni-GPT/tree/main/data")
     st.markdown("""---""")
